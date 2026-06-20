@@ -90,7 +90,7 @@ I am a Computer Science graduate with hands-on experience in Python, Power BI, S
 | Introduction to MS Excel | Coursera |
 | Python FullStack Developer | Udemy |
 | Introduction to Java Programming | EDX |
-| Artificial Intelligence | [Issuer Name] |
+| Artificial Intelligence | Infosys Springboard |
 
 ---
 
