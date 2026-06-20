@@ -77,7 +77,7 @@ I am a Computer Science graduate with hands-on experience in Python, Power BI, S
 
 | Institution | Degree | Year | Score |
 |-------------|--------|------|-------|
-| Vasireddy Venkatadri Institute of Technology, Namburu | B.Tech in Computer Science and Engineering | 2022 - 2026 | CGPA: 7.1 |
+| Vasireddy Venkatadri Institute of Technology, Namburu | B.Tech in Computer Science and Engineering | 2022 - 2026 | CGPA: 6.94 |
 | Narayana Junior College, Guntur | Pre-University Education | 2020 - 2022 | 65.7% |
 | Kanna High School, Guntur | Secondary Education | 2019 - 2020 | 100% |
 
