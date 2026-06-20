@@ -111,5 +111,3 @@ I am a Computer Science graduate with hands-on experience in Python, Power BI, S
 [![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:konetimani09@gmail.com)
 
 ---
-
-"Transforming Data into Meaningful Insights"
